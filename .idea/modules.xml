@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Dsa Programs.iml" filepath="$PROJECT_DIR$/.idea/Dsa Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashset/Hashset.iml" filepath="$PROJECT_DIR$/Hashset/Hashset.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked List/Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Linked List.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
     </modules>
