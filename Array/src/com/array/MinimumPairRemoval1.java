@@ -62,3 +62,5 @@ public class MinimumPairRemoval1 {
         System.out.println("Minimum operations: " + result);
     }
 }
+
+//llrr
