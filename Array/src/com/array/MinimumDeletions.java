@@ -1,0 +1,25 @@
+package com.array;
+
+ class MinimumDeletions {
+
+        public static int minimumDeletions(String s) {
+            int bCount = 0;
+            int deletions = 0;
+
+            for (char c : s.toCharArray()) {
+                if (c == 'b') {
+                    bCount++;
+                } else { // c == 'a'
+                    deletions = Math.min(deletions + 1, bCount);
+                }
+            }
+            return deletions;
+        }
+            public static  void main(String[] args){
+            String s = "aababbab";
+//            Object name = "kaushik";
+            System.out.println(minimumDeletions(s));
+    }
+
+
+}
