@@ -21,7 +21,6 @@ public class Trionic {
             i++;
         }
         return i== n;
-
     }
     public static void main(String[] args){
         int[] nums = {1,1,5,4,2,6,6};
