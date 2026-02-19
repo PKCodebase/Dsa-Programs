@@ -39,5 +39,7 @@ public class CountBinarySubstrings {
 
         System.out.println("Input: " + s2);
         System.out.println("Output: " + countBinarySubstrings(s2));
+        System.out.println("Input: " + s2);
+        System.out.println("Output: " + countBinarySubstrings(s2));
     }
 }
